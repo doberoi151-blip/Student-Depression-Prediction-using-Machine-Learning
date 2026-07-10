@@ -194,11 +194,6 @@ Evaluation
 - Compare multiple models:
   - Logistic Regression
   - Decision Tree
-  - Random Forest
-  - SVM
-  - XGBoost
-- Perform Hyperparameter Tuning
-- Deploy model using Streamlit
 
 ---
 
